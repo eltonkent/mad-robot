@@ -1,0 +1,3 @@
+ @attr ref com.congenialmobile.R#LazyImageView_url
+ * @attr ref com.congenialmobile.R#lifetime
+ * @attr ref android.R.styleable#ImageView_adjustViewBounds
